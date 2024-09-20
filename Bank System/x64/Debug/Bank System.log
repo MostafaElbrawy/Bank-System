@@ -1,0 +1,30 @@
+﻿  Bank System.cpp
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsString.h(54,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsString.h(202,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsString.h(227,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsString.h(270,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsString.h(336,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsUtil.h(20,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsTotalBalancesScreen.h(51,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsUser.h(283,1): warning C4715: 'clsUser::Find': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsBankClient.h(333,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsBankClient.h(263,1): warning C4715: 'clsBankClient::Find': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsUser.h(308,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsUser.h(256,1): warning C4715: 'clsUser::Find': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsCurrency.h(164,1): warning C4715: 'clsCurrency::FindByCode': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\clsCurrency.h(189,1): warning C4715: 'clsCurrency::FindByCountry': not all control paths return a value
+  Bank System.vcxproj -> C:\Users\hp\Documents\Projects\c++ projects\Big projects\Bank System\x64\Debug\Bank System.exe
